@@ -1,0 +1,12 @@
+body {
+	background-color: #FCB653;
+	font-family: 'Share Tech', Arial, serif; font-weight: 400; 
+
+}
+
+#musicplayer{
+	position: absolute;
+	margin-top: 20%;
+	margin-left: 40%;
+
+}
